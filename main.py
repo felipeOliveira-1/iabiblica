@@ -10,9 +10,9 @@ openai.api_key = "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"
 # Add a title and a brief description
 st.title("📜 IA Bíblica")
 st.markdown("""
-Este aplicativo usa o modelo GPT-3.5-turbo-16k da OpenAI para oferecer conselhos e ensinamentos com base na Bíblia.
+Este aplicativo usa o modelo mais avançado de Inteligencia Artificial para oferecer conhecimento, sabedoria e ensinamentos Bíblicos.
 
-Você pode usar esse programa para buscar entendimento sobre passagens bíblicas, aprender mais sobre as escrituras, buscar conselhos espirituais, e muito mais.
+Você pode usar esse programa para buscar entendimento sobre passagens bíblicas, aprender mais sobre as escrituras, buscar direção espiritual e muito mais.
 
 Basta digitar a sua pergunta ou tópico de interesse, e então clique em 'Gerar'.
 """)

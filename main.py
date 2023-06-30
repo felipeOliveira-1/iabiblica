@@ -10,7 +10,7 @@ openai.api_key = "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"
 # Add a title and a brief description
 st.title("📜 IA Bíblica")
 st.markdown("""
-Este aplicativo usa o modelo mais avançado de Inteligencia Artificial para oferecer conhecimento, sabedoria e ensinamentos Bíblicos.
+Este aplicativo usa o modelo mais avançado de Inteligencia Artificial capaz de oferecer conhecimento, sabedoria e ensinamentos Bíblicos.
 
 Você pode usar esse programa para buscar entendimento sobre passagens bíblicas, aprender mais sobre as escrituras, buscar direção espiritual e muito mais.
 

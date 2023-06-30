@@ -51,24 +51,6 @@ if st.button('Gerar'):
 # Imprimir a resposta gerada
 st.text_area("Resposta:", value=st.session_state.generated_message, height=200, max_chars=None, key=None)
 
-# Generate the QR code
-
-# Generate the QR code
-input_data = "00020126580014br.gov.bcb.pix01360e48f310-f553-478e-99ca-2969866ca19a5204000053039865802BR5924Felipe de Oliveira Silva6008Brasilia62080504mpda6304B474"
-qr = qrcode.QRCode(
-    version=1,
-    error_correction=qrcode.constants.ERROR_CORRECT_H,
-    box_size=4,
-    border=4,
-)
-qr.add_data(input_data)
-qr.make(fit=True)
-img = qr.make_image(fill='black', back_color='white')
-
-# Save the QR code image
-img.save('qrcode.png')
-
-# Display the QR code at the end of your app
 st.markdown("""
 ## Pronto para elevar a experiência de aprendizado espiritual de sua congregação?
 Se você está encantado com o que a IA Bíblica pode fazer, imagine o impacto que ela terá em sua igreja. Este aplicativo não é apenas uma ferramenta educativa, é uma plataforma que inspira, orienta e ajuda a esclarecer questões teológicas complexas, baseando-se na Bíblia. Fale conosco para saber mais sobre como adquirir.

@@ -2,7 +2,7 @@
 import openai
 import os
 import streamlit as st
-import qrcode
+
 
 # Load your OpenAI API key from your local `.env` file
 openai.api_key = "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"

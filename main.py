@@ -60,7 +60,7 @@ st.markdown("""
 Se você está encantado com o que a IA Bíblica pode fazer, imagine o impacto que ela terá em sua igreja. Este aplicativo não é apenas uma ferramenta educativa, é uma plataforma que inspira, orienta e ajuda a esclarecer questões teológicas complexas, baseando-se na Bíblia. Fale conosco para saber mais sobre como adquirir a versão completa.
 """)
 
-st.markdown("Para mais informações visite o nosso site: ")
+st.markdown("Para mais informações visite o nosso site: https://iabiblica.com.br/ ")
 
 st.markdown("""
 ### Siga nas redes sociais

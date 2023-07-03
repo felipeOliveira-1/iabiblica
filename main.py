@@ -8,7 +8,10 @@ import streamlit as st
 openai.api_key = "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"
 
 # Add a title and a brief description
-st.title("📜 IA Bíblica")
+st.markdown("""
+<a href="https://iabiblica.com.br/">
+<img src="https://iabiblica.com.br/assets/images/image02.png?v=06ac211d" style="display: block; margin: auto;" />
+</a>
 st.markdown("""
 Este aplicativo usa o modelo mais avançado de Inteligencia Artificial capaz de oferecer conhecimento, sabedoria e ensinamentos Bíblicos.
 

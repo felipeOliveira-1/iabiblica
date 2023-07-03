@@ -62,19 +62,3 @@ Se você está encantado com o que a IA Bíblica pode fazer, imagine o impacto q
 
 st.markdown("Para mais informações visite o nosso site: https://iabiblica.com.br/ ")
 
-st.markdown("""
-### Siga nas redes sociais
-
-<p align="left"> 
-<a href="https://www.instagram.com//" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" />
-</a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.youtube.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a> 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://twitter.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32"/> 
-</p>
-""", unsafe_allow_html=True)
-

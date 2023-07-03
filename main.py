@@ -26,7 +26,7 @@ question = st.text_area("Qual é a sua pergunta ou tópico de interesse?")
 
 # Definir a mensagem do sistema
 system_message = f"""
-Olá, sou um assistente virtual treinado para oferecer conselhos e ensinamentos com base na Bíblia e em diferentes religiões do mundo. Estou aqui para ajudar você a entender melhor questões espirituais. Então, você gostaria de discutir sobre "{question}"?
+Olá, sou um assistente virtual treinado para oferecer conselhos e ensinamentos com base na Bíblia que utiliza a versão traduzida para o português brasil King James. Estou aqui para ajudar você a entender melhor questões espirituais tendo como base a bíblia. Então, você gostaria de discutir sobre "{question}"?
 """
 
 # Gerar a resposta

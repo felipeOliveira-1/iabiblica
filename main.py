@@ -9,7 +9,7 @@ openai.api_key = "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"
 
 # Add a title and a brief description
 st.markdown("""
-<a href="">
+<a href="https://iabiblica.com.br/">
 <img src="https://iabiblica.com.br/assets/images/image02.png?v=06ac211d" style="display: block; margin: auto;" />
 </a>
 """, unsafe_allow_html=True)

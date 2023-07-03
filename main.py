@@ -9,9 +9,10 @@ openai.api_key = "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"
 
 # Add a title and a brief description
 st.markdown("""
-<a href="https://iabiblica.com.br/">
-<img src="https://iabiblica.com.br/assets/images/image02.png?v=06ac211d" style="display: block; margin: auto;" />
-</a>""")
+<a href="https://felipesilva.tech/">
+<img src="https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=127,h=77,fit=crop/YBgEyWxyOWC5zP2j/new-logo-2-2-Yan2qMwjrztJWBPk.png" style="display: block; margin: auto;" />
+</a>
+""", unsafe_allow_html=True)
 st.markdown("""
 Este aplicativo usa o modelo mais avançado de Inteligencia Artificial capaz de oferecer conhecimento, sabedoria e ensinamentos Bíblicos.
 

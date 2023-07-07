@@ -40,6 +40,7 @@ keywords = ['Deus', 'Jesus', 'Bíblia', 'cristão', 'cristianismo', 'fé', 'igre
 if st.button('Gerar'):
     response = openai.ChatCompletion.create(
         model="gpt-4",
+        max_tokens=7000,
         messages=[
             {"role": "system", "content": system_message},
         ]

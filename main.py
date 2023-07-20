@@ -10,7 +10,7 @@ openai.api_key = "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"
 # Add a title and a brief description
 st.markdown("""
 <a href="https://iabiblica.com.br/">
-<img src="https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=132,h=132,fit=crop/Aq2047MR9ZFejV6k/logo-iab-1-AE0qRkNM04u1E9l8.png" />
+<img src="https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=132,h=132,fit=crop/Aq2047MR9ZFejV6k/logo-iab-1-AE0qRkNM04u1E9l8.png" style="display: block; margin: auto; width: 100px; height: 100px; />
 </a><br>
 """, unsafe_allow_html=True)
 st.markdown("""

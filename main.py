@@ -14,7 +14,7 @@ st.markdown("""
 </a><br>
 """, unsafe_allow_html=True)
 st.markdown("""
-Este é um aplicativo de teste ALPHA que utiliza o modelo mais avançado de Inteligencia Artificial, capaz de oferecer conhecimento, sabedoria e ensinamentos Bíblicos.
+Este é um aplicativo de teste ALPHA que utiliza a mais avançada Inteligencia Artificial que existe, capaz de oferecer conhecimento, sabedoria e ensinamentos Bíblicos.
 
 Você pode usar esse programa para buscar entendimento sobre passagens bíblicas, aprender mais sobre as escrituras, buscar direção espiritual e muito mais.
 
